@@ -171,6 +171,8 @@ $(document).ready(function() {
             $('.hbd').removeClass('hide');
             today = "۱۹ مهر";
             document.getElementById("date").innerHTML=today;
+            // document.getElementsByName('title').innerHTML = 'SALAM';
+            // document.getElementById('tttt').innerHTML = 'salammm';
 
         }).setTween(tween).addTo(controller);
 
