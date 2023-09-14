@@ -173,6 +173,8 @@ $(document).ready(function() {
             document.getElementById("date").innerHTML=today;
             // document.getElementsByName('title').innerHTML = 'SALAM';
             // document.getElementById('tttt').innerHTML = 'salammm';
+            // audioElement.play();
+
 
         }).setTween(tween).addTo(controller);
 
